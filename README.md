@@ -1,4 +1,3 @@
-[![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
 <h1 align="center">Hi 👋, I'm Arda Şengün</h1>
 <h3 align="center">A passionate full stack developer and AI developer from Türkiye</h3>
 
