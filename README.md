@@ -1,4 +1,4 @@
-[![MasterHead](https://coderspace-storage-prod.s3.eu-central-1.amazonaws.com/media/blog/post/content_images/5267cb83-b638-4d81-b3ca-45cf0709ad60.webps)
+[![MasterHead](https://weebgroup.com/1/images/-86f17854f6424ddaa73d736fdfce3afb.png)
 <h1 align="center">Hi 👋, I'm Arda Şengün</h1>
 <h3 align="center">A passionate full stack developer and AI developer from Türkiye</h3>
 
