@@ -54,8 +54,9 @@ Yazılım yeteneklerimi sadece web dünyasında değil, mühendislik projelerind
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arda-sengun&show_icons=true&theme=radical&hide_border=true&locale=tr&v=1" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda-sengun&layout=compact&theme=radical&hide_border=true&locale=tr&v=1" height="180" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arda-sengun&theme=radical" height="180" alt="profile stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arda-sengun&theme=radical" height="180" alt="language stats" />
 </div>
 
 ---
