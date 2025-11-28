@@ -61,10 +61,10 @@ Yazılım yeteneklerimi sadece web dünyasında değil, mühendislik projelerind
 ---
 
 <div align="center">
-  <a href="mailto:seninmailin@gmail.com">
+  <a href="ardasengun142@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/kullaniciadin/">
+  <a href="https://www.linkedin.com/in/ardasengun/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </div>
