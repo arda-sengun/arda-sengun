@@ -54,14 +54,14 @@ Yazılım yeteneklerimi sadece web dünyasında değil, mühendislik projelerind
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arda-sengun&show_icons=true&theme=radical&hide_border=true&locale=tr&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arda-sengun&show_icons=true&theme=radical&hide_border=true&locale=tr" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda-sengun&layout=compact&theme=radical&hide_border=true&locale=tr" height="180" alt="languages graph" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="ardasengun142@gmail.com">
+  <a href="mailto:ardasengun142@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ardasengun/">
