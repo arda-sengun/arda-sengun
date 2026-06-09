@@ -26,9 +26,9 @@ University : Bartın University — Computer Technology & Information Systems (3
 Focus      : Scalable web apps · Backend architecture · AI integration
 ```
 
-I'm a third-year Computer Technology and Information Systems student with a strong focus on **full-stack web development** and **AI integration**. I build end-to-end applications — from database design to web interfaces — primarily using **ASP.NET Core**, **C#**, and relational databases like **MSSQL** and **MySQL**.
+I'm a third-year Computer Technology and Information Systems student at Bartın University, focused on building scalable full-stack web applications and integrating AI into real-world systems. My primary tools are **ASP.NET Core**, **C#**, and relational databases like **MSSQL** and **MySQL** — from schema design all the way to deployment.
 
-I actively participate in hackathons and technical events such as **Turkcell Code Night** and **Ankara AI Hackathon**, contributing to projects involving backend development, AI integration, and real-time data systems. Currently deepening my skills in backend architecture and integrating AI into modern web applications.
+Currently sharpening my backend architecture skills and exploring how AI can be embedded meaningfully into modern web applications.
 
 <br/>
 
@@ -74,10 +74,4 @@ I actively participate in hackathons and technical events such as **Turkcell Cod
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-sengun&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=F72585&fire=FF6B35&currStreakLabel=FFFFFF" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Build things that scale. Ship things that matter."</i>
 </div>
