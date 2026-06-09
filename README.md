@@ -1,71 +1,83 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Computer+Technology+And+Information+System+Student;UAV+%26+Drone+Technologies" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72585&background=00000000&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+Developer;Backend+%7C+C%23+%26+ASP.NET+Core;AI+Integration+Enthusiast;Computer+Technology+%40+Bart%C4%B1n+University" alt="Typing SVG" />
 
-<div align="center">
-  <a href="https://github.com/arda-sengun">
-    <img src="https://komarev.com/ghpvc/?username=arda-sengun&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
-  </a>
-</div>
+  <br/>
 
----
-
-### 👨‍💻 Hakkımda (About Me)
-
-Merhaba, ben **Arda**. Bartın Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri öğrencisiyim. Kariyer hedefimi **Full Stack Web Geliştirme** ve **Yapay Zeka** teknolojileri üzerine kuruyorum.
-
-Yazılım yeteneklerimi sadece web dünyasında değil, mühendislik projelerinde de kullanıyorum. Web mimarilerini akıllı algoritmalarla güçlendirirken, üniversite bünyesinde **İHA (Drone)** sistemleri üzerine de çalışmalar yürütüyorum.
-
-- 🔭 **Odak Noktam:** Uçtan uca (End-to-End) web uygulamaları ve AI entegrasyonları.
-- 💻 **Backend & AI:** Python ile veri/AI süreçleri; C# ve Java ile kurumsal mimariler.
-- 🚁 **Mühendislik:** İHA (UAV) yer kontrol istasyonları ve uçuş algoritmaları.
-- 🌱 **Hedefim:** Geleceğin "AI-Native" yazılım mühendislerinden biri olmak.
-
----
-
-### 🚀 Teknoloji Yığınım (Tech Stack)
-
-<div align="left">
-
-**🌐 Full Stack Web**<br/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**🧠 AI & Backend Languages**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-**🚁 UAV & Robotics (Mühendislik)**<br/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ArduPilot-FF0000?style=for-the-badge&logo=ardupilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-**🛠️ Tools**<br/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arda-sengun&theme=radical" height="180" alt="profile stats" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arda-sengun&theme=radical" height="180" alt="language stats" />
-</div>
-
----
-
-<div align="center">
-  <a href="mailto:ardasengun142@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/ardasengun/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:ardasengun142@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/arda-sengun">
+    <img src="https://komarev.com/ghpvc/?username=arda-sengun&style=flat-square&color=F72585&label=profile+views" />
+  </a>
+</div>
+
+<br/>
+
+## `whoami`
+
+```text
+Name       : Arda Şengün
+Role       : Full Stack Developer · Backend-heavy · AI Integration Enthusiast
+Stack      : C# / ASP.NET Core · Python · MSSQL / MySQL · JavaScript
+University : Bartın University — Computer Technology & Information Systems (3rd Year)
+Focus      : Scalable web apps · Backend architecture · AI integration
+```
+
+I'm a third-year Computer Technology and Information Systems student with a strong focus on **full-stack web development** and **AI integration**. I build end-to-end applications — from database design to web interfaces — primarily using **ASP.NET Core**, **C#**, and relational databases like **MSSQL** and **MySQL**.
+
+I actively participate in hackathons and technical events such as **Turkcell Code Night** and **Ankara AI Hackathon**, contributing to projects involving backend development, AI integration, and real-time data systems. Currently deepening my skills in backend architecture and integrating AI into modern web applications.
+
+<br/>
+
+## Tech Stack
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Databases**
+
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arda-sengun&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arda-sengun&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=FFFFFF" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arda-sengun&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=F72585&fire=FF6B35&currStreakLabel=FFFFFF" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Build things that scale. Ship things that matter."</i>
 </div>
