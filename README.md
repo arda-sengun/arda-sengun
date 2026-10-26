@@ -22,11 +22,11 @@
 Name       : Arda Şengün
 Role       : Full Stack Developer · Backend-heavy · AI Integration Enthusiast
 Stack      : C# / ASP.NET Core · Python · MSSQL / MySQL · JavaScript
-University : Bartın University — Computer Technology & Information Systems (3rd Year)
+University : Bartın University — Computer Technology & Information Systems
 Focus      : Scalable web apps · Backend architecture · AI integration
 ```
 
-I'm a third-year Computer Technology and Information Systems student at Bartın University, focused on building scalable full-stack web applications and integrating AI into real-world systems. My primary tools are **ASP.NET Core**, **C#**, and relational databases like **MSSQL** and **MySQL** — from schema design all the way to deployment.
+I'm a fourth-year Computer Technology and Information Systems student at Bartın University, focused on building scalable full-stack web applications and integrating AI into real-world systems. My primary tools are **ASP.NET Core**, **C#**, and relational databases like **MSSQL** and **MySQL** — from schema design all the way to deployment.
 
 Currently sharpening my backend architecture skills and exploring how AI can be embedded meaningfully into modern web applications.
 
